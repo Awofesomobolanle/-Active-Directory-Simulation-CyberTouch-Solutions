@@ -88,11 +88,11 @@ CYBERTOUCH.Local
 
 ---
 
-## Group Policy (GPO)
+## Group Policy (GPO 1)
 
 Created and linked using **Group Policy Management Console (gpmc.msc) **:
 
-- **GPO Name**: `DisableRemovableDrives,
+- **GPO Name**: `DisableRemovableDrives
 - **Linked to**: OU: HR Department
 - **Policy Configured**:
   - `Computer Configuration` > `Administrative Templates` > `System` > `Removable Storage Access`
@@ -101,7 +101,7 @@ Created and linked using **Group Policy Management Console (gpmc.msc) **:
 Result: USB and external drives are disabled for all users in the **Accounts OU**.
 
 ---
-## Group Policy (GPO)
+## Group Policy (GPO 2)
 
 Created and linked using **Group Policy Management Console (gpmc.msc) **:
 
